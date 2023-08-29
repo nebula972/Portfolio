@@ -3109,3 +3109,11 @@ input, select, textarea {
 			}
 
 	}
+
+
+	.CURRICULUM-container {
+		display: flex;
+		justify-content: center;
+		margin-left: 34%;
+	}
+
