@@ -3114,9 +3114,15 @@ input, select, textarea {
 	}
 
 
+/*	other  */
+
 	.CURRICULUM-container {
 		display: flex;
 		justify-content: center;
-		margin-left: 34%;
+		align-items: center;
 	}
 
+	.cv{
+		width: 100%;
+		height: 100%;
+	}
