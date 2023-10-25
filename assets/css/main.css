@@ -1968,28 +1968,12 @@ input, select, textarea {
 				top: -5px;
 			}
 
-				ul.contact li:hover a.fa-facebook {
-					background-color: #3C5A98;
-				}
-
-				ul.contact li:hover a.fa-twitter {
-					background-color: #2DAAE4;
-				}
-
-				ul.contact li:hover a.fa-dribbble {
-					background-color: #C4376B;
+				ul.contact li:hover a.fa-github {
+					background-color: #353c37;
 				}
 
 				ul.contact li:hover a.fa-linkedin {
 					background-color: #006599;
-				}
-
-				ul.contact li:hover a.fa-instagram {
-					background-color: #2E5E86;
-				}
-
-				ul.contact li:hover a.fa-google-plus {
-					background-color: #DA2713;
 				}
 
 			ul.contact li:active {
